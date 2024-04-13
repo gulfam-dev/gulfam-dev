@@ -7,11 +7,8 @@
 
 - ⚡ Fun fact: I also love to Draw!  
 - 🥅 2024 Goals: Learn more about Hybrid App Development
-  
 
 <br/>  
-
-
 ## Language & Tools  
 <div align="left">  
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="40" /></a>  
