@@ -6,6 +6,7 @@
 - 🌱 Presently, I'm diving into ReactNative and Flutter.  
 
 - ⚡ Fun fact: I also love to Draw!  
+- 🥅 2024 Goals: Learn more about Hybrid App Development
   
 
 <br/>  
