@@ -12,7 +12,7 @@
 
 
 ## My Skill Set  
-<div align="center">  
+<div align="left">  
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="25" /></a>  
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
@@ -24,9 +24,8 @@
 
 <br/>  
 
-
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://linkedin.com/in/gulfam-dev" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
