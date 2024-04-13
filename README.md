@@ -11,7 +11,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Language & Tools  
 <div align="left">  
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="25" /></a>  
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" /></a>  
@@ -34,22 +34,14 @@
 </a>  
 </div>  
   
-
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulfam-dev&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gulfam-dev&&style=flat-square" align="center" />
 </div>  
-  
-
 <br/>  
-
 
 <br />
 
