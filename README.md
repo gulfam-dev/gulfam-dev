@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Gulfam, a Student 👨‍💻 Mobile App Developer📱</div>  
+### <div align="center">Hi 👋 I'm Gulfam</div>  
   
 
 - 🐾 On the path to becoming a Software Engineer.
