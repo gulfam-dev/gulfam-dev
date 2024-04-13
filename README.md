@@ -18,7 +18,7 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></a>  
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="VS Code" height="40" /></a>
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
-<a href="https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQjw2uiwBhCXARIsACMvIU3RxPQBgdUA1ub-EaeD5q1NKE5cK2YjwSC-zx0z7b_bt9U3GZpjurQaAj40EALw_wcB&gclsrc=aw.ds" target="_blank"><img style="margin: 10px" src="https://i.ibb.co/Kr5TFYY/android-studio-icon.png" alt="Android Studio" height="40" /></a> 
+<a href="https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQjw2uiwBhCXARIsACMvIU3RxPQBgdUA1ub-EaeD5q1NKE5cK2YjwSC-zx0z7b_bt9U3GZpjurQaAj40EALw_wcB&gclsrc=aw.ds" target="_blank"><img style="margin: 10px" src="https://i.ibb.co/Kr5TFYY/android-studio-icon.png" alt="Android Studio" height="50" /></a> 
 </div>  
 
 
