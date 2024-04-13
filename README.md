@@ -1,18 +1,9 @@
-<div align="center">
-<img src="https://gist.githubusercontent.com/codesandtags/998ecaff2f1b1a0f1d97d6d8a93867b9/raw/0d405110fc8f9a4acfd31937a820076dea8fe46f/welcome.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Hi 👋 I'm Gulfam 👨‍💻📱</div>  
   
 
-- 🐾 On the path to becoming a Software Engineer.
-
-  
-  
+- 🐾 On the path to becoming a Software Engineer.  
 
 - 🌱 Presently, I'm diving into ReactNative and Flutter.  
-  
 
 - ⚡ Fun fact: I also love to Draw!  
   
