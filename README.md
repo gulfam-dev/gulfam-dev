@@ -2,11 +2,9 @@
   
 
 - 🐾 On the path to becoming a Software Engineer.  
-
 - 🌱 Presently, I'm diving into ReactNative and Flutter.  
-
 - ⚡ Fun fact: I also love to Draw!  
-- 🥅 2024 Goals: Learn more about Hybrid App Development
+- 🥅 2024 Goals: Learn more about Hybrid App Development.
 
 
 ## Language & Tools  
