@@ -38,7 +38,5 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gulfam-dev&&style=flat-square" align="center" />
 </div>  
-<br/>  
 
-<br />
 
