@@ -1,4 +1,5 @@
-### <div align="center">Hi 👋 I'm <span style="color:purple">Gulfam</span> 👨‍💻📱</div>
+### <span style="color:blue">### <div align="center">Hey 👋 I'm <span style="color:purple">Gulfam</span> 👨‍💻📱</div></span>
+
   
 
 - 🐾 On the path to becoming a Software Engineer.  
